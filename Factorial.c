@@ -3,7 +3,7 @@
 void main()
 {
 	int num,res;
-	clrscr();
+	//clrscr();
 	scanf("Enter the Number %d",&num);
 	res=fact(n);
 	printf("Factorial : %d",res);
