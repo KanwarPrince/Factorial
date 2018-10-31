@@ -4,5 +4,5 @@ fact(n)
 		return 1;
 	else 
 	
-		return fact(n-1);
+		return fact(n-1); //recursive function calling
 }
