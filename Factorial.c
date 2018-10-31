@@ -5,7 +5,7 @@ void main()
 	int num,res;
 	clrscr();
 	scanf("Enter the Number %d",&num);
-	res=fact(n);
+	res=fact(n);//calling function fact()
 	printf("Factorial : %d",res);
 	getch();
 {
