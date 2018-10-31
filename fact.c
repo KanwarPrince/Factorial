@@ -1,3 +1,4 @@
+//function to find factorial
 fact(n)
 {
 	if num = 0 ||1 
