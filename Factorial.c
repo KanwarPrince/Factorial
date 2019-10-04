@@ -1,11 +1,11 @@
 #include<stdio.h>
-#include<conio.h>
 void main()
 {
-	int num,res;
+	int num;
 	clrscr();
 	scanf("Enter the Number %d",&num);
-	res=fact(n);
-	printf("Factorial : %d",res);
+	for(int i = 1;i<=num;i++)
+		num = num*i;
+	printf("Factorial : %d",num);
 	getch();
 {
