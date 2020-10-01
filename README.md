@@ -1,4 +1,4 @@
 Factorial
 =========
 
-Test Project
+Test Project for Factorial using C language
