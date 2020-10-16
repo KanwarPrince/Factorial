@@ -1,11 +1,14 @@
 #include<stdio.h>
-#include<conio.h>
-void main()
+#define p printf(
+#define s scanf(
+#define f )
+#define m printf("\n")
+
+int main()
 {
 	int num,res;
-	clrscr();
-	scanf("Enter the Number %d",&num);
+	s"Enter the Number %d",&num f;
 	res=fact(n);
-	printf("Factorial : %d",res);
-	getch();
+	p"Factorial : %d",res f;
+    m;
 {
